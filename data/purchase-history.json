@@ -1,0 +1,2347 @@
+[
+    {
+        "rowNumber":  1,
+        "name":  "のり",
+        "purchasedAt":  "2026-08-07T17:57:00+09:00"
+    },
+    {
+        "rowNumber":  2,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-08-07T17:57:00+09:00"
+    },
+    {
+        "rowNumber":  3,
+        "name":  "餅",
+        "purchasedAt":  "2026-08-11T19:27:00+09:00"
+    },
+    {
+        "rowNumber":  4,
+        "name":  "スライスチーズ",
+        "purchasedAt":  "2026-08-07T18:07:00+09:00"
+    },
+    {
+        "rowNumber":  5,
+        "name":  "ミックスベリー",
+        "purchasedAt":  "2026-08-11T19:27:00+09:00"
+    },
+    {
+        "rowNumber":  6,
+        "name":  "みりん",
+        "purchasedAt":  "2026-07-13T14:28:00+09:00"
+    },
+    {
+        "rowNumber":  7,
+        "name":  "醤油",
+        "purchasedAt":  "2026-07-13T14:28:00+09:00"
+    },
+    {
+        "rowNumber":  8,
+        "name":  "網戸の虫除けスプレー",
+        "purchasedAt":  "2026-07-20T19:17:00+09:00"
+    },
+    {
+        "rowNumber":  9,
+        "name":  "みりん",
+        "purchasedAt":  "2026-07-12T21:39:00+09:00"
+    },
+    {
+        "rowNumber":  10,
+        "name":  "キャベツ",
+        "purchasedAt":  "2026-07-06T19:10:00+09:00"
+    },
+    {
+        "rowNumber":  11,
+        "name":  "バター",
+        "purchasedAt":  "2026-07-06T18:44:00+09:00"
+    },
+    {
+        "rowNumber":  12,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2026-07-06T19:08:00+09:00"
+    },
+    {
+        "rowNumber":  13,
+        "name":  "冷凍ネギ",
+        "purchasedAt":  "2026-07-06T19:07:00+09:00"
+    },
+    {
+        "rowNumber":  14,
+        "name":  "割り箸",
+        "purchasedAt":  "2026-07-04T17:29:00+09:00"
+    },
+    {
+        "rowNumber":  15,
+        "name":  "キッチンペーパー",
+        "purchasedAt":  "2026-08-02T12:34:00+09:00"
+    },
+    {
+        "rowNumber":  16,
+        "name":  "天かす",
+        "purchasedAt":  "2026-08-02T12:34:00+09:00"
+    },
+    {
+        "rowNumber":  17,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2026-07-29T17:57:00+09:00"
+    },
+    {
+        "rowNumber":  18,
+        "name":  "ウェットティッシュ",
+        "purchasedAt":  "2026-08-02T12:34:00+09:00"
+    },
+    {
+        "rowNumber":  19,
+        "name":  "アイス",
+        "purchasedAt":  "2026-07-24T13:24:00+09:00"
+    },
+    {
+        "rowNumber":  20,
+        "name":  "冷凍 ネギ",
+        "purchasedAt":  "2026-07-24T13:21:00+09:00"
+    },
+    {
+        "rowNumber":  21,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2026-07-24T13:20:00+09:00"
+    },
+    {
+        "rowNumber":  22,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-07-24T13:22:00+09:00"
+    },
+    {
+        "rowNumber":  23,
+        "name":  "サラダ油",
+        "purchasedAt":  "2026-07-24T13:22:00+09:00"
+    },
+    {
+        "rowNumber":  24,
+        "name":  "小麦粉",
+        "purchasedAt":  "2026-07-24T13:20:00+09:00"
+    },
+    {
+        "rowNumber":  25,
+        "name":  "片栗粉",
+        "purchasedAt":  "2026-07-24T13:20:00+09:00"
+    },
+    {
+        "rowNumber":  26,
+        "name":  "砂糖",
+        "purchasedAt":  "2026-07-24T13:20:00+09:00"
+    },
+    {
+        "rowNumber":  27,
+        "name":  "アイス",
+        "purchasedAt":  "2026-07-21T21:59:00+09:00"
+    },
+    {
+        "rowNumber":  28,
+        "name":  "すずらんテープ",
+        "purchasedAt":  "2026-07-20T19:17:00+09:00"
+    },
+    {
+        "rowNumber":  29,
+        "name":  "ガムテープ",
+        "purchasedAt":  "2026-07-20T19:17:00+09:00"
+    },
+    {
+        "rowNumber":  30,
+        "name":  "いりごま",
+        "purchasedAt":  "2026-07-18T15:29:00+09:00"
+    },
+    {
+        "rowNumber":  31,
+        "name":  "オリーブオイル",
+        "purchasedAt":  "2026-07-18T15:29:00+09:00"
+    },
+    {
+        "rowNumber":  32,
+        "name":  "ホットケーキミックス",
+        "purchasedAt":  "2026-07-13T14:28:00+09:00"
+    },
+    {
+        "rowNumber":  33,
+        "name":  "うどん",
+        "purchasedAt":  "2026-07-13T14:28:00+09:00"
+    },
+    {
+        "rowNumber":  34,
+        "name":  "納豆",
+        "purchasedAt":  "2026-07-13T14:28:00+09:00"
+    },
+    {
+        "rowNumber":  35,
+        "name":  "バター",
+        "purchasedAt":  "2026-07-13T00:45:00+09:00"
+    },
+    {
+        "rowNumber":  36,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-07-13T00:45:00+09:00"
+    },
+    {
+        "rowNumber":  37,
+        "name":  "バター",
+        "purchasedAt":  "2026-07-13T00:45:00+09:00"
+    },
+    {
+        "rowNumber":  38,
+        "name":  "五郎。",
+        "purchasedAt":  "2026-07-13T00:39:00+09:00"
+    },
+    {
+        "rowNumber":  39,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-07-12T21:39:00+09:00"
+    },
+    {
+        "rowNumber":  40,
+        "name":  "イヤホン",
+        "purchasedAt":  "2026-07-12T21:39:00+09:00"
+    },
+    {
+        "rowNumber":  41,
+        "name":  "卵",
+        "purchasedAt":  "2026-07-13T14:28:00+09:00"
+    },
+    {
+        "rowNumber":  42,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-07-13T14:28:00+09:00"
+    },
+    {
+        "rowNumber":  43,
+        "name":  "強力粉",
+        "purchasedAt":  "2026-06-24T13:19:00+09:00"
+    },
+    {
+        "rowNumber":  44,
+        "name":  "バター",
+        "purchasedAt":  "2026-06-07T13:15:00+09:00"
+    },
+    {
+        "rowNumber":  45,
+        "name":  "日本酒",
+        "purchasedAt":  "2026-06-13T17:50:00+09:00"
+    },
+    {
+        "rowNumber":  46,
+        "name":  "米",
+        "purchasedAt":  "2026-06-07T13:15:00+09:00"
+    },
+    {
+        "rowNumber":  47,
+        "name":  "冷凍ネギ",
+        "purchasedAt":  "2026-06-07T11:21:00+09:00"
+    },
+    {
+        "rowNumber":  48,
+        "name":  "天かす",
+        "purchasedAt":  "2026-06-07T11:22:00+09:00"
+    },
+    {
+        "rowNumber":  49,
+        "name":  "ゴミ袋",
+        "purchasedAt":  "2026-06-07T13:15:00+09:00"
+    },
+    {
+        "rowNumber":  50,
+        "name":  "消しゴム",
+        "purchasedAt":  "2026-06-04T22:57:00+09:00"
+    },
+    {
+        "rowNumber":  51,
+        "name":  "ペン",
+        "purchasedAt":  "2026-06-04T22:57:00+09:00"
+    },
+    {
+        "rowNumber":  52,
+        "name":  "ハサミ",
+        "purchasedAt":  "2026-06-04T22:57:00+09:00"
+    },
+    {
+        "rowNumber":  53,
+        "name":  "付箋",
+        "purchasedAt":  "2026-06-04T22:54:00+09:00"
+    },
+    {
+        "rowNumber":  54,
+        "name":  "キーボード",
+        "purchasedAt":  "2026-06-04T22:53:00+09:00"
+    },
+    {
+        "rowNumber":  55,
+        "name":  "コップ",
+        "purchasedAt":  "2026-06-04T22:53:00+09:00"
+    },
+    {
+        "rowNumber":  56,
+        "name":  "卵3パック",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  57,
+        "name":  "牛乳2パック",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  58,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  59,
+        "name":  "食パン",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  60,
+        "name":  "卵",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  61,
+        "name":  "コーヒー",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  62,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  63,
+        "name":  "食パン",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  64,
+        "name":  "卵",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  65,
+        "name":  "コーヒー",
+        "purchasedAt":  "2026-06-04T21:24:00+09:00"
+    },
+    {
+        "rowNumber":  66,
+        "name":  "あげなす",
+        "purchasedAt":  "2026-06-04T22:53:00+09:00"
+    },
+    {
+        "rowNumber":  67,
+        "name":  "ほんだし",
+        "purchasedAt":  "2026-06-04T22:57:00+09:00"
+    },
+    {
+        "rowNumber":  68,
+        "name":  "大きいゴミ袋",
+        "purchasedAt":  "2026-07-01T13:46:00+09:00"
+    },
+    {
+        "rowNumber":  69,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2026-07-04T17:29:00+09:00"
+    },
+    {
+        "rowNumber":  70,
+        "name":  "乾燥わかめ",
+        "purchasedAt":  "2026-06-30T16:38:00+09:00"
+    },
+    {
+        "rowNumber":  71,
+        "name":  "粉チーズ",
+        "purchasedAt":  "2026-06-27T17:26:00+09:00"
+    },
+    {
+        "rowNumber":  72,
+        "name":  "卵",
+        "purchasedAt":  "2026-06-21T11:18:00+09:00"
+    },
+    {
+        "rowNumber":  73,
+        "name":  "味噌",
+        "purchasedAt":  "2026-06-21T11:22:00+09:00"
+    },
+    {
+        "rowNumber":  74,
+        "name":  "刻み揚げ",
+        "purchasedAt":  "2026-07-04T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  75,
+        "name":  "鶏がらスープ",
+        "purchasedAt":  "2026-06-24T13:19:00+09:00"
+    },
+    {
+        "rowNumber":  76,
+        "name":  "ニンニクチューブ",
+        "purchasedAt":  "2026-06-23T18:40:00+09:00"
+    },
+    {
+        "rowNumber":  77,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2026-06-23T18:40:00+09:00"
+    },
+    {
+        "rowNumber":  78,
+        "name":  "溶けるスライスチーズ",
+        "purchasedAt":  "2026-06-24T13:17:00+09:00"
+    },
+    {
+        "rowNumber":  79,
+        "name":  "豆板醤",
+        "purchasedAt":  "2026-06-21T11:20:00+09:00"
+    },
+    {
+        "rowNumber":  80,
+        "name":  "マスタード",
+        "purchasedAt":  "2026-07-04T17:24:00+09:00"
+    },
+    {
+        "rowNumber":  81,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-06-21T11:24:00+09:00"
+    },
+    {
+        "rowNumber":  82,
+        "name":  "卵",
+        "purchasedAt":  "2026-06-21T11:18:00+09:00"
+    },
+    {
+        "rowNumber":  83,
+        "name":  "好み焼き粉",
+        "purchasedAt":  "2026-06-21T11:20:00+09:00"
+    },
+    {
+        "rowNumber":  84,
+        "name":  "サラダ油",
+        "purchasedAt":  "2026-06-21T11:24:00+09:00"
+    },
+    {
+        "rowNumber":  85,
+        "name":  "卵",
+        "purchasedAt":  "2026-06-13T19:08:00+09:00"
+    },
+    {
+        "rowNumber":  86,
+        "name":  "おろしのタレ",
+        "purchasedAt":  "2026-06-30T16:38:00+09:00"
+    },
+    {
+        "rowNumber":  87,
+        "name":  "トマト缶",
+        "purchasedAt":  "2026-06-21T11:24:00+09:00"
+    },
+    {
+        "rowNumber":  88,
+        "name":  "輪切り唐辛子",
+        "purchasedAt":  "2026-06-13T17:51:00+09:00"
+    },
+    {
+        "rowNumber":  89,
+        "name":  "ケチャップ",
+        "purchasedAt":  "2026-06-13T17:52:00+09:00"
+    },
+    {
+        "rowNumber":  90,
+        "name":  "うどん",
+        "purchasedAt":  "2026-06-21T11:19:00+09:00"
+    },
+    {
+        "rowNumber":  91,
+        "name":  "ケチャップ",
+        "purchasedAt":  "2026-06-13T17:52:00+09:00"
+    },
+    {
+        "rowNumber":  92,
+        "name":  "カレー粉",
+        "purchasedAt":  "2026-06-13T17:53:00+09:00"
+    },
+    {
+        "rowNumber":  93,
+        "name":  "小さいティッシュ",
+        "purchasedAt":  "2026-05-11T15:56:00+09:00"
+    },
+    {
+        "rowNumber":  94,
+        "name":  "ベリーミックス",
+        "purchasedAt":  "2026-05-09T17:27:00+09:00"
+    },
+    {
+        "rowNumber":  95,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-05-09T17:12:00+09:00"
+    },
+    {
+        "rowNumber":  96,
+        "name":  "牛乳ヨーグルト用",
+        "purchasedAt":  "2026-05-09T17:12:00+09:00"
+    },
+    {
+        "rowNumber":  97,
+        "name":  "きなこ",
+        "purchasedAt":  "2026-05-09T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  98,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2026-05-09T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  99,
+        "name":  "はみがきこ",
+        "purchasedAt":  "2026-05-24T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  100,
+        "name":  "はちみつ",
+        "purchasedAt":  "2026-05-09T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  101,
+        "name":  "てんかす",
+        "purchasedAt":  "2026-05-31T13:56:00+09:00"
+    },
+    {
+        "rowNumber":  102,
+        "name":  "キッチンペーパー",
+        "purchasedAt":  "2026-05-31T13:56:00+09:00"
+    },
+    {
+        "rowNumber":  103,
+        "name":  "しょうゆ",
+        "purchasedAt":  "2026-05-31T13:56:00+09:00"
+    },
+    {
+        "rowNumber":  104,
+        "name":  "トイペ",
+        "purchasedAt":  "2026-05-31T13:56:00+09:00"
+    },
+    {
+        "rowNumber":  105,
+        "name":  "ホケミ",
+        "purchasedAt":  "2026-05-31T13:53:00+09:00"
+    },
+    {
+        "rowNumber":  106,
+        "name":  "ごま油",
+        "purchasedAt":  "2026-05-03T14:43:00+09:00"
+    },
+    {
+        "rowNumber":  107,
+        "name":  "あらびきマスタード",
+        "purchasedAt":  "2026-05-03T14:43:00+09:00"
+    },
+    {
+        "rowNumber":  108,
+        "name":  "にんにくチューブ",
+        "purchasedAt":  "2026-05-03T14:43:00+09:00"
+    },
+    {
+        "rowNumber":  109,
+        "name":  "しょうがチューブ",
+        "purchasedAt":  "2026-05-03T14:43:00+09:00"
+    },
+    {
+        "rowNumber":  110,
+        "name":  "マキシマム",
+        "purchasedAt":  "2026-05-26T15:55:00+09:00"
+    },
+    {
+        "rowNumber":  111,
+        "name":  "トイレの芳香剤",
+        "purchasedAt":  "2026-05-26T15:55:00+09:00"
+    },
+    {
+        "rowNumber":  112,
+        "name":  "卵",
+        "purchasedAt":  "2026-05-26T15:55:00+09:00"
+    },
+    {
+        "rowNumber":  113,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-05-16T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  114,
+        "name":  "モーニングサーブ",
+        "purchasedAt":  "2026-05-16T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  115,
+        "name":  "玉ねぎ",
+        "purchasedAt":  "2026-05-16T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  116,
+        "name":  "じゃが",
+        "purchasedAt":  "2026-05-16T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  117,
+        "name":  "キャベツ",
+        "purchasedAt":  "2026-05-16T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  118,
+        "name":  "アイス",
+        "purchasedAt":  "2026-05-16T17:53:00+09:00"
+    },
+    {
+        "rowNumber":  119,
+        "name":  "チョコソース",
+        "purchasedAt":  "2026-05-16T17:53:00+09:00"
+    },
+    {
+        "rowNumber":  120,
+        "name":  "ミックスベリー",
+        "purchasedAt":  "2026-05-20T19:07:00+09:00"
+    },
+    {
+        "rowNumber":  121,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2026-05-14T10:21:00+09:00"
+    },
+    {
+        "rowNumber":  122,
+        "name":  "かつおぶし",
+        "purchasedAt":  "2026-05-14T10:21:00+09:00"
+    },
+    {
+        "rowNumber":  123,
+        "name":  "お風呂ネット",
+        "purchasedAt":  "2026-05-14T06:36:00+09:00"
+    },
+    {
+        "rowNumber":  124,
+        "name":  "排水ネット",
+        "purchasedAt":  "2026-05-14T06:36:00+09:00"
+    },
+    {
+        "rowNumber":  125,
+        "name":  "サラダ油",
+        "purchasedAt":  "2026-04-12T00:10:00+09:00"
+    },
+    {
+        "rowNumber":  126,
+        "name":  "てんかす",
+        "purchasedAt":  "2026-04-04T14:30:00+09:00"
+    },
+    {
+        "rowNumber":  127,
+        "name":  "乾燥わかめ",
+        "purchasedAt":  "2026-04-04T14:30:00+09:00"
+    },
+    {
+        "rowNumber":  128,
+        "name":  "のり",
+        "purchasedAt":  "2026-04-04T14:30:00+09:00"
+    },
+    {
+        "rowNumber":  129,
+        "name":  "中華だし",
+        "purchasedAt":  "2026-04-30T13:55:00+09:00"
+    },
+    {
+        "rowNumber":  130,
+        "name":  "甜麺醤",
+        "purchasedAt":  "2026-04-30T14:08:00+09:00"
+    },
+    {
+        "rowNumber":  131,
+        "name":  "冷凍枝豆",
+        "purchasedAt":  "2026-05-01T19:34:00+09:00"
+    },
+    {
+        "rowNumber":  132,
+        "name":  "キッチンペーパー",
+        "purchasedAt":  "2026-04-28T18:58:00+09:00"
+    },
+    {
+        "rowNumber":  133,
+        "name":  "刻みネギ",
+        "purchasedAt":  "2026-04-28T18:54:00+09:00"
+    },
+    {
+        "rowNumber":  134,
+        "name":  "食べるラー油",
+        "purchasedAt":  "2026-04-26T12:13:00+09:00"
+    },
+    {
+        "rowNumber":  135,
+        "name":  "たべっこどうぶつワックスペーパー218x25030枚",
+        "purchasedAt":  "2026-04-26T12:13:00+09:00"
+    },
+    {
+        "rowNumber":  136,
+        "name":  "油吸収シート",
+        "purchasedAt":  "2026-04-19T13:43:00+09:00"
+    },
+    {
+        "rowNumber":  137,
+        "name":  "サランラップ大",
+        "purchasedAt":  "2026-04-19T13:43:00+09:00"
+    },
+    {
+        "rowNumber":  138,
+        "name":  "スライスチーズ",
+        "purchasedAt":  "2026-04-16T16:58:00+09:00"
+    },
+    {
+        "rowNumber":  139,
+        "name":  "コンソメ",
+        "purchasedAt":  "2026-04-17T18:20:00+09:00"
+    },
+    {
+        "rowNumber":  140,
+        "name":  "薄力粉",
+        "purchasedAt":  "2026-04-13T19:18:00+09:00"
+    },
+    {
+        "rowNumber":  141,
+        "name":  "ホットケーキミックス",
+        "purchasedAt":  "2026-04-13T19:18:00+09:00"
+    },
+    {
+        "rowNumber":  142,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2026-04-13T19:19:00+09:00"
+    },
+    {
+        "rowNumber":  143,
+        "name":  "パスタ",
+        "purchasedAt":  "2026-04-14T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  144,
+        "name":  "焼きそば",
+        "purchasedAt":  "2026-04-14T17:23:00+09:00"
+    },
+    {
+        "rowNumber":  145,
+        "name":  "クッキングシート",
+        "purchasedAt":  "2026-04-28T19:20:00+09:00"
+    },
+    {
+        "rowNumber":  146,
+        "name":  "オイスターソース",
+        "purchasedAt":  "2026-04-14T17:17:00+09:00"
+    },
+    {
+        "rowNumber":  147,
+        "name":  "バター",
+        "purchasedAt":  "2026-04-14T17:18:00+09:00"
+    },
+    {
+        "rowNumber":  148,
+        "name":  "トイレットペーパー",
+        "purchasedAt":  "2026-04-03T13:53:00+09:00"
+    },
+    {
+        "rowNumber":  149,
+        "name":  "ピザ用チーズ",
+        "purchasedAt":  "2026-04-02T13:31:00+09:00"
+    },
+    {
+        "rowNumber":  150,
+        "name":  "すりごま",
+        "purchasedAt":  "2026-04-04T14:31:00+09:00"
+    },
+    {
+        "rowNumber":  151,
+        "name":  "冷凍ネギ",
+        "purchasedAt":  "2026-04-04T14:31:00+09:00"
+    },
+    {
+        "rowNumber":  152,
+        "name":  "冷凍ハンバーグ",
+        "purchasedAt":  "2026-04-14T18:31:00+09:00"
+    },
+    {
+        "rowNumber":  153,
+        "name":  "ニンニクチューブ",
+        "purchasedAt":  "2026-04-04T14:29:00+09:00"
+    },
+    {
+        "rowNumber":  154,
+        "name":  "冷凍ハンバーグ",
+        "purchasedAt":  "2026-03-23T19:01:00+09:00"
+    },
+    {
+        "rowNumber":  155,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2026-03-23T19:01:00+09:00"
+    },
+    {
+        "rowNumber":  156,
+        "name":  "ブラックペッパー",
+        "purchasedAt":  "2026-03-16T19:00:00+09:00"
+    },
+    {
+        "rowNumber":  157,
+        "name":  "かつおぶし",
+        "purchasedAt":  "2026-03-16T18:37:00+09:00"
+    },
+    {
+        "rowNumber":  158,
+        "name":  "みりん",
+        "purchasedAt":  "2026-03-06T13:45:00+09:00"
+    },
+    {
+        "rowNumber":  159,
+        "name":  "酒",
+        "purchasedAt":  "2026-03-06T13:45:00+09:00"
+    },
+    {
+        "rowNumber":  160,
+        "name":  "しゃもじ",
+        "purchasedAt":  "2026-03-16T19:01:00+09:00"
+    },
+    {
+        "rowNumber":  161,
+        "name":  "醤油",
+        "purchasedAt":  "2026-03-16T19:01:00+09:00"
+    },
+    {
+        "rowNumber":  162,
+        "name":  "ほんだし",
+        "purchasedAt":  "2026-03-16T19:01:00+09:00"
+    },
+    {
+        "rowNumber":  163,
+        "name":  "ふりかけ",
+        "purchasedAt":  "2026-03-16T19:01:00+09:00"
+    },
+    {
+        "rowNumber":  164,
+        "name":  "バター",
+        "purchasedAt":  "2026-03-16T18:33:00+09:00"
+    },
+    {
+        "rowNumber":  165,
+        "name":  "卵",
+        "purchasedAt":  "2026-03-16T18:58:00+09:00"
+    },
+    {
+        "rowNumber":  166,
+        "name":  "卵",
+        "purchasedAt":  "2026-03-17T16:56:00+09:00"
+    },
+    {
+        "rowNumber":  167,
+        "name":  "牛乳",
+        "purchasedAt":  "2026-03-17T16:56:00+09:00"
+    },
+    {
+        "rowNumber":  168,
+        "name":  "米",
+        "purchasedAt":  "2026-03-17T16:58:00+09:00"
+    },
+    {
+        "rowNumber":  169,
+        "name":  "片栗粉",
+        "purchasedAt":  "2026-03-17T16:58:00+09:00"
+    },
+    {
+        "rowNumber":  170,
+        "name":  "冷凍ポテト",
+        "purchasedAt":  "2026-03-16T18:29:00+09:00"
+    },
+    {
+        "rowNumber":  171,
+        "name":  "かなだわし",
+        "purchasedAt":  "2026-03-16T19:02:00+09:00"
+    },
+    {
+        "rowNumber":  172,
+        "name":  "中華だし",
+        "purchasedAt":  "2026-02-07T16:29:00+09:00"
+    },
+    {
+        "rowNumber":  173,
+        "name":  "辛そうで辛くない少し辛いラー油",
+        "purchasedAt":  "2026-02-07T16:29:00+09:00"
+    },
+    {
+        "rowNumber":  174,
+        "name":  "コチュジャン",
+        "purchasedAt":  "2026-02-05T18:38:00+09:00"
+    },
+    {
+        "rowNumber":  175,
+        "name":  "豆板醤",
+        "purchasedAt":  "2026-02-05T18:38:00+09:00"
+    },
+    {
+        "rowNumber":  176,
+        "name":  "パン粉",
+        "purchasedAt":  "2026-02-05T18:38:00+09:00"
+    },
+    {
+        "rowNumber":  177,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2026-03-06T13:44:00+09:00"
+    },
+    {
+        "rowNumber":  178,
+        "name":  "てんかす",
+        "purchasedAt":  "2026-03-06T13:47:00+09:00"
+    },
+    {
+        "rowNumber":  179,
+        "name":  "さとう",
+        "purchasedAt":  "2026-02-26T06:50:00+09:00"
+    },
+    {
+        "rowNumber":  180,
+        "name":  "ホットケーキミックス",
+        "purchasedAt":  "2026-02-26T06:50:00+09:00"
+    },
+    {
+        "rowNumber":  181,
+        "name":  "冷凍ネギ",
+        "purchasedAt":  "2026-02-26T06:50:00+09:00"
+    },
+    {
+        "rowNumber":  182,
+        "name":  "トイレットペーパー",
+        "purchasedAt":  "2026-02-05T18:47:00+09:00"
+    },
+    {
+        "rowNumber":  183,
+        "name":  "鷹の爪",
+        "purchasedAt":  "2026-02-19T15:19:00+09:00"
+    },
+    {
+        "rowNumber":  184,
+        "name":  "中華スープ",
+        "purchasedAt":  "2026-02-19T15:19:00+09:00"
+    },
+    {
+        "rowNumber":  185,
+        "name":  "サラダ油",
+        "purchasedAt":  "2026-02-23T16:17:00+09:00"
+    },
+    {
+        "rowNumber":  186,
+        "name":  "クッキングシート",
+        "purchasedAt":  "2026-02-23T16:17:00+09:00"
+    },
+    {
+        "rowNumber":  187,
+        "name":  "のり",
+        "purchasedAt":  "2026-03-06T13:43:00+09:00"
+    },
+    {
+        "rowNumber":  188,
+        "name":  "おろしにんにく",
+        "purchasedAt":  "2026-01-10T14:43:00+09:00"
+    },
+    {
+        "rowNumber":  189,
+        "name":  "おろししょうが",
+        "purchasedAt":  "2026-01-10T14:43:00+09:00"
+    },
+    {
+        "rowNumber":  190,
+        "name":  "ツナ",
+        "purchasedAt":  "2026-01-07T15:23:00+09:00"
+    },
+    {
+        "rowNumber":  191,
+        "name":  "てんさいとう",
+        "purchasedAt":  "2026-01-07T15:19:00+09:00"
+    },
+    {
+        "rowNumber":  192,
+        "name":  "米",
+        "purchasedAt":  "2026-01-10T14:47:00+09:00"
+    },
+    {
+        "rowNumber":  193,
+        "name":  "しょうゆ",
+        "purchasedAt":  "2026-01-10T14:47:00+09:00"
+    },
+    {
+        "rowNumber":  194,
+        "name":  "ココア",
+        "purchasedAt":  "2026-01-16T07:10:00+09:00"
+    },
+    {
+        "rowNumber":  195,
+        "name":  "みそ",
+        "purchasedAt":  "2026-01-31T15:11:00+09:00"
+    },
+    {
+        "rowNumber":  196,
+        "name":  "小さいティッシュ",
+        "purchasedAt":  "2026-01-27T16:32:00+09:00"
+    },
+    {
+        "rowNumber":  197,
+        "name":  "塩焼きそば",
+        "purchasedAt":  "2026-01-27T16:36:00+09:00"
+    },
+    {
+        "rowNumber":  198,
+        "name":  "マヨネーズ",
+        "purchasedAt":  "2026-01-27T16:36:00+09:00"
+    },
+    {
+        "rowNumber":  199,
+        "name":  "ケチャップ",
+        "purchasedAt":  "2026-01-27T16:36:00+09:00"
+    },
+    {
+        "rowNumber":  200,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2026-01-27T16:34:00+09:00"
+    },
+    {
+        "rowNumber":  201,
+        "name":  "とけるチーズ",
+        "purchasedAt":  "2026-01-23T14:59:00+09:00"
+    },
+    {
+        "rowNumber":  202,
+        "name":  "歯磨き粉 フッ素高配合",
+        "purchasedAt":  "2026-01-23T14:56:00+09:00"
+    },
+    {
+        "rowNumber":  203,
+        "name":  "強力粉",
+        "purchasedAt":  "2026-02-09T13:23:00+09:00"
+    },
+    {
+        "rowNumber":  204,
+        "name":  "サラダ油",
+        "purchasedAt":  "2026-01-23T15:01:00+09:00"
+    },
+    {
+        "rowNumber":  205,
+        "name":  "トマト缶",
+        "purchasedAt":  "2026-01-23T15:01:00+09:00"
+    },
+    {
+        "rowNumber":  206,
+        "name":  "塩",
+        "purchasedAt":  "2026-01-21T10:36:00+09:00"
+    },
+    {
+        "rowNumber":  207,
+        "name":  "ごま油",
+        "purchasedAt":  "2026-01-27T16:39:00+09:00"
+    },
+    {
+        "rowNumber":  208,
+        "name":  "ツナ",
+        "purchasedAt":  "2026-01-23T15:00:00+09:00"
+    },
+    {
+        "rowNumber":  209,
+        "name":  "オイスターソース",
+        "purchasedAt":  "2026-01-31T15:09:00+09:00"
+    },
+    {
+        "rowNumber":  210,
+        "name":  "中華だし",
+        "purchasedAt":  "2026-01-23T15:00:00+09:00"
+    },
+    {
+        "rowNumber":  211,
+        "name":  "油取りシート",
+        "purchasedAt":  "2026-01-21T10:39:00+09:00"
+    },
+    {
+        "rowNumber":  212,
+        "name":  "はちみつ",
+        "purchasedAt":  "2026-01-21T10:43:00+09:00"
+    },
+    {
+        "rowNumber":  213,
+        "name":  "紅茶パック",
+        "purchasedAt":  "2026-01-27T16:40:00+09:00"
+    },
+    {
+        "rowNumber":  214,
+        "name":  "ピーナッツバター",
+        "purchasedAt":  "2026-02-23T16:07:00+09:00"
+    },
+    {
+        "rowNumber":  215,
+        "name":  "牛乳✖️2",
+        "purchasedAt":  "2026-01-17T08:41:00+09:00"
+    },
+    {
+        "rowNumber":  216,
+        "name":  "玉ねぎ",
+        "purchasedAt":  "2026-01-17T08:41:00+09:00"
+    },
+    {
+        "rowNumber":  217,
+        "name":  "冷凍ネギ",
+        "purchasedAt":  "2025-12-12T15:28:00+09:00"
+    },
+    {
+        "rowNumber":  218,
+        "name":  "エアジェット詰め替え",
+        "purchasedAt":  "2025-12-08T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  219,
+        "name":  "トイレットペーパー",
+        "purchasedAt":  "2025-12-08T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  220,
+        "name":  "にんにく",
+        "purchasedAt":  "2025-12-08T17:17:00+09:00"
+    },
+    {
+        "rowNumber":  221,
+        "name":  "お酢",
+        "purchasedAt":  "2025-12-08T17:21:00+09:00"
+    },
+    {
+        "rowNumber":  222,
+        "name":  "粉チーズ",
+        "purchasedAt":  "2025-12-08T19:13:00+09:00"
+    },
+    {
+        "rowNumber":  223,
+        "name":  "ウェットティッシュ",
+        "purchasedAt":  "2025-12-08T19:15:00+09:00"
+    },
+    {
+        "rowNumber":  224,
+        "name":  "とけるチーズ",
+        "purchasedAt":  "2025-12-11T16:12:00+09:00"
+    },
+    {
+        "rowNumber":  225,
+        "name":  "スライスチーズ",
+        "purchasedAt":  "2025-12-08T17:25:00+09:00"
+    },
+    {
+        "rowNumber":  226,
+        "name":  "ホットケーキミックス",
+        "purchasedAt":  "2025-12-28T12:57:00+09:00"
+    },
+    {
+        "rowNumber":  227,
+        "name":  "ほんだし",
+        "purchasedAt":  "2025-12-01T17:44:00+09:00"
+    },
+    {
+        "rowNumber":  228,
+        "name":  "乾燥わかめ",
+        "purchasedAt":  "2025-12-01T17:42:00+09:00"
+    },
+    {
+        "rowNumber":  229,
+        "name":  "チーズケーキの材料",
+        "purchasedAt":  "2025-12-25T15:43:00+09:00"
+    },
+    {
+        "rowNumber":  230,
+        "name":  "強力粉",
+        "purchasedAt":  "2025-12-19T16:46:00+09:00"
+    },
+    {
+        "rowNumber":  231,
+        "name":  "薄力粉",
+        "purchasedAt":  "2025-12-19T16:46:00+09:00"
+    },
+    {
+        "rowNumber":  232,
+        "name":  "かたくりこ",
+        "purchasedAt":  "2025-12-19T16:46:00+09:00"
+    },
+    {
+        "rowNumber":  233,
+        "name":  "てんかす",
+        "purchasedAt":  "2025-12-27T17:36:00+09:00"
+    },
+    {
+        "rowNumber":  234,
+        "name":  "中濃ソース",
+        "purchasedAt":  "2025-12-19T16:49:00+09:00"
+    },
+    {
+        "rowNumber":  235,
+        "name":  "レモン汁",
+        "purchasedAt":  "2025-12-19T16:49:00+09:00"
+    },
+    {
+        "rowNumber":  236,
+        "name":  "ブラックペッパー",
+        "purchasedAt":  "2025-12-12T15:15:00+09:00"
+    },
+    {
+        "rowNumber":  237,
+        "name":  "小麦粉",
+        "purchasedAt":  "2025-12-12T15:15:00+09:00"
+    },
+    {
+        "rowNumber":  238,
+        "name":  "岩塩",
+        "purchasedAt":  "2025-12-12T15:15:00+09:00"
+    },
+    {
+        "rowNumber":  239,
+        "name":  "油吸収パット",
+        "purchasedAt":  "2025-11-06T15:31:00+09:00"
+    },
+    {
+        "rowNumber":  240,
+        "name":  "キッチンペーパー",
+        "purchasedAt":  "2025-11-06T15:35:00+09:00"
+    },
+    {
+        "rowNumber":  241,
+        "name":  "冷凍餃子",
+        "purchasedAt":  "2025-12-01T07:36:00+09:00"
+    },
+    {
+        "rowNumber":  242,
+        "name":  "アロンアルファ",
+        "purchasedAt":  "2025-01-27T16:41:00+09:00"
+    },
+    {
+        "rowNumber":  243,
+        "name":  "鶏がらスープ",
+        "purchasedAt":  "2025-12-01T17:41:00+09:00"
+    },
+    {
+        "rowNumber":  244,
+        "name":  "まぜこみわかめ",
+        "purchasedAt":  "2025-12-01T17:39:00+09:00"
+    },
+    {
+        "rowNumber":  245,
+        "name":  "かつおぶし",
+        "purchasedAt":  "2025-11-26T12:48:00+09:00"
+    },
+    {
+        "rowNumber":  246,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2025-11-26T12:44:00+09:00"
+    },
+    {
+        "rowNumber":  247,
+        "name":  "しょうゆ",
+        "purchasedAt":  "2025-11-26T12:44:00+09:00"
+    },
+    {
+        "rowNumber":  248,
+        "name":  "みりん",
+        "purchasedAt":  "2025-11-26T12:39:00+09:00"
+    },
+    {
+        "rowNumber":  249,
+        "name":  "酒",
+        "purchasedAt":  "2025-11-26T12:39:00+09:00"
+    },
+    {
+        "rowNumber":  250,
+        "name":  "わかめ",
+        "purchasedAt":  "2025-11-26T12:47:00+09:00"
+    },
+    {
+        "rowNumber":  251,
+        "name":  "てんかす",
+        "purchasedAt":  "2025-11-26T12:46:00+09:00"
+    },
+    {
+        "rowNumber":  252,
+        "name":  "さとう",
+        "purchasedAt":  "2025-11-26T12:46:00+09:00"
+    },
+    {
+        "rowNumber":  253,
+        "name":  "サラダ油",
+        "purchasedAt":  "2025-11-26T12:38:00+09:00"
+    },
+    {
+        "rowNumber":  254,
+        "name":  "ベーキングパウダー",
+        "purchasedAt":  "2025-12-08T19:12:00+09:00"
+    },
+    {
+        "rowNumber":  255,
+        "name":  "ホットケーキミックス",
+        "purchasedAt":  "2025-12-12T15:13:00+09:00"
+    },
+    {
+        "rowNumber":  256,
+        "name":  "米",
+        "purchasedAt":  "2025-11-12T16:56:00+09:00"
+    },
+    {
+        "rowNumber":  257,
+        "name":  "すりごま",
+        "purchasedAt":  "2025-11-11T11:40:00+09:00"
+    },
+    {
+        "rowNumber":  258,
+        "name":  "いりごま",
+        "purchasedAt":  "2025-11-11T11:40:00+09:00"
+    },
+    {
+        "rowNumber":  259,
+        "name":  "パン粉",
+        "purchasedAt":  "2025-11-11T11:40:00+09:00"
+    },
+    {
+        "rowNumber":  260,
+        "name":  "てんかす",
+        "purchasedAt":  "2025-10-09T16:16:00+09:00"
+    },
+    {
+        "rowNumber":  261,
+        "name":  "サランラップ",
+        "purchasedAt":  "2025-10-09T16:15:00+09:00"
+    },
+    {
+        "rowNumber":  262,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2025-10-11T13:34:00+09:00"
+    },
+    {
+        "rowNumber":  263,
+        "name":  "ピザソース",
+        "purchasedAt":  "2025-01-12T18:46:00+09:00"
+    },
+    {
+        "rowNumber":  264,
+        "name":  "サランラップ",
+        "purchasedAt":  "2025-10-07T18:51:00+09:00"
+    },
+    {
+        "rowNumber":  265,
+        "name":  "純ココア",
+        "purchasedAt":  "2025-10-07T18:52:00+09:00"
+    },
+    {
+        "rowNumber":  266,
+        "name":  "トイレットペーパー",
+        "purchasedAt":  "2025-10-07T18:50:00+09:00"
+    },
+    {
+        "rowNumber":  267,
+        "name":  "柔軟剤",
+        "purchasedAt":  "2025-10-07T18:53:00+09:00"
+    },
+    {
+        "rowNumber":  268,
+        "name":  "冷凍ネギ",
+        "purchasedAt":  "2025-10-04T17:28:00+09:00"
+    },
+    {
+        "rowNumber":  269,
+        "name":  "ケチャップ",
+        "purchasedAt":  "2025-10-04T17:15:00+09:00"
+    },
+    {
+        "rowNumber":  270,
+        "name":  "マスタード",
+        "purchasedAt":  "2025-10-04T17:15:00+09:00"
+    },
+    {
+        "rowNumber":  271,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2025-10-04T17:28:00+09:00"
+    },
+    {
+        "rowNumber":  272,
+        "name":  "牛乳",
+        "purchasedAt":  "2025-10-04T17:28:00+09:00"
+    },
+    {
+        "rowNumber":  273,
+        "name":  "てんかす",
+        "purchasedAt":  "2025-11-03T21:41:00+09:00"
+    },
+    {
+        "rowNumber":  274,
+        "name":  "すりごま",
+        "purchasedAt":  "2025-10-30T15:57:00+09:00"
+    },
+    {
+        "rowNumber":  275,
+        "name":  "しょうがチューブ",
+        "purchasedAt":  "2025-10-30T15:55:00+09:00"
+    },
+    {
+        "rowNumber":  276,
+        "name":  "マヨネーズ",
+        "purchasedAt":  "2025-10-26T09:57:00+09:00"
+    },
+    {
+        "rowNumber":  277,
+        "name":  "梅こぶ茶",
+        "purchasedAt":  "2025-10-26T09:57:00+09:00"
+    },
+    {
+        "rowNumber":  278,
+        "name":  "お茶パック",
+        "purchasedAt":  "2025-10-26T09:58:00+09:00"
+    },
+    {
+        "rowNumber":  279,
+        "name":  "爪楊枝",
+        "purchasedAt":  "2025-10-26T09:54:00+09:00"
+    },
+    {
+        "rowNumber":  280,
+        "name":  "キッチンペーパー",
+        "purchasedAt":  "2025-10-21T18:41:00+09:00"
+    },
+    {
+        "rowNumber":  281,
+        "name":  "バター",
+        "purchasedAt":  "2025-10-30T15:56:00+09:00"
+    },
+    {
+        "rowNumber":  282,
+        "name":  "ふりかけ",
+        "purchasedAt":  "2025-10-19T12:25:00+09:00"
+    },
+    {
+        "rowNumber":  283,
+        "name":  "歯磨き粉",
+        "purchasedAt":  "2025-10-19T12:25:00+09:00"
+    },
+    {
+        "rowNumber":  284,
+        "name":  "米",
+        "purchasedAt":  "2025-10-19T16:50:00+09:00"
+    },
+    {
+        "rowNumber":  285,
+        "name":  "ココア",
+        "purchasedAt":  "2025-10-21T18:47:00+09:00"
+    },
+    {
+        "rowNumber":  286,
+        "name":  "燃やすゴミ袋 40",
+        "purchasedAt":  "2025-10-24T16:13:00+09:00"
+    },
+    {
+        "rowNumber":  287,
+        "name":  "てんかす",
+        "purchasedAt":  "2025-10-17T18:15:00+09:00"
+    },
+    {
+        "rowNumber":  288,
+        "name":  "ゴミ袋20L",
+        "purchasedAt":  "2025-10-17T18:15:00+09:00"
+    },
+    {
+        "rowNumber":  289,
+        "name":  "箱ティッシュ",
+        "purchasedAt":  "2025-10-17T18:15:00+09:00"
+    },
+    {
+        "rowNumber":  290,
+        "name":  "コチュジャン",
+        "purchasedAt":  "2025-10-16T17:18:00+09:00"
+    },
+    {
+        "rowNumber":  291,
+        "name":  "乾燥わかめ",
+        "purchasedAt":  "2025-10-16T17:18:00+09:00"
+    },
+    {
+        "rowNumber":  292,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2025-09-13T11:41:00+09:00"
+    },
+    {
+        "rowNumber":  293,
+        "name":  "にんにくチューブ",
+        "purchasedAt":  "2025-09-13T11:41:00+09:00"
+    },
+    {
+        "rowNumber":  294,
+        "name":  "醤油",
+        "purchasedAt":  "2025-09-13T11:41:00+09:00"
+    },
+    {
+        "rowNumber":  295,
+        "name":  "バター",
+        "purchasedAt":  "2025-09-13T11:41:00+09:00"
+    },
+    {
+        "rowNumber":  296,
+        "name":  "ホットケーキの粉",
+        "purchasedAt":  "2025-10-04T17:27:00+09:00"
+    },
+    {
+        "rowNumber":  297,
+        "name":  "スライスチーズ",
+        "purchasedAt":  "2025-10-04T17:11:00+09:00"
+    },
+    {
+        "rowNumber":  298,
+        "name":  "ピザ用チーズ",
+        "purchasedAt":  "2025-10-04T17:11:00+09:00"
+    },
+    {
+        "rowNumber":  299,
+        "name":  "片栗粉",
+        "purchasedAt":  "2025-10-04T17:13:00+09:00"
+    },
+    {
+        "rowNumber":  300,
+        "name":  "サラダ油",
+        "purchasedAt":  "2025-10-01T16:47:00+09:00"
+    },
+    {
+        "rowNumber":  301,
+        "name":  "味噌",
+        "purchasedAt":  "2025-09-26T16:36:00+09:00"
+    },
+    {
+        "rowNumber":  302,
+        "name":  "鷹の爪",
+        "purchasedAt":  "2025-09-26T16:36:00+09:00"
+    },
+    {
+        "rowNumber":  303,
+        "name":  "砂糖",
+        "purchasedAt":  "2025-09-24T20:47:00+09:00"
+    },
+    {
+        "rowNumber":  304,
+        "name":  "ふりかけ",
+        "purchasedAt":  "2025-09-24T20:47:00+09:00"
+    },
+    {
+        "rowNumber":  305,
+        "name":  "玉ねぎ",
+        "purchasedAt":  "2025-09-24T20:47:00+09:00"
+    },
+    {
+        "rowNumber":  306,
+        "name":  "粉チーズ",
+        "purchasedAt":  "2025-09-24T20:47:00+09:00"
+    },
+    {
+        "rowNumber":  307,
+        "name":  "岩塩",
+        "purchasedAt":  "2025-09-19T16:24:00+09:00"
+    },
+    {
+        "rowNumber":  308,
+        "name":  "胡椒",
+        "purchasedAt":  "2025-09-19T16:24:00+09:00"
+    },
+    {
+        "rowNumber":  309,
+        "name":  "てんかす",
+        "purchasedAt":  "2025-09-19T16:24:00+09:00"
+    },
+    {
+        "rowNumber":  310,
+        "name":  "おろしのたれ",
+        "purchasedAt":  "2025-08-07T20:01:00+09:00"
+    },
+    {
+        "rowNumber":  311,
+        "name":  "サラダ油",
+        "purchasedAt":  "2025-08-07T20:00:00+09:00"
+    },
+    {
+        "rowNumber":  312,
+        "name":  "みりん",
+        "purchasedAt":  "2025-08-07T20:02:00+09:00"
+    },
+    {
+        "rowNumber":  313,
+        "name":  "玉ねぎ",
+        "purchasedAt":  "2025-08-07T20:03:00+09:00"
+    },
+    {
+        "rowNumber":  314,
+        "name":  "しょうがチューブ",
+        "purchasedAt":  "2025-08-07T19:59:00+09:00"
+    },
+    {
+        "rowNumber":  315,
+        "name":  "のり",
+        "purchasedAt":  "2025-08-30T13:38:00+09:00"
+    },
+    {
+        "rowNumber":  316,
+        "name":  "アルコールスプレー",
+        "purchasedAt":  "2025-08-30T08:54:00+09:00"
+    },
+    {
+        "rowNumber":  317,
+        "name":  "お茶パック",
+        "purchasedAt":  "2025-08-28T16:18:00+09:00"
+    },
+    {
+        "rowNumber":  318,
+        "name":  "コンソメ",
+        "purchasedAt":  "2025-08-30T13:35:00+09:00"
+    },
+    {
+        "rowNumber":  319,
+        "name":  "冷凍ブロッコリー",
+        "purchasedAt":  "2025-08-30T13:35:00+09:00"
+    },
+    {
+        "rowNumber":  320,
+        "name":  "ピーナッツバター",
+        "purchasedAt":  "2025-10-09T16:19:00+09:00"
+    },
+    {
+        "rowNumber":  321,
+        "name":  "甜麺醤",
+        "purchasedAt":  "2025-08-25T06:54:00+09:00"
+    },
+    {
+        "rowNumber":  322,
+        "name":  "豆豉醬",
+        "purchasedAt":  "2025-08-25T06:54:00+09:00"
+    },
+    {
+        "rowNumber":  323,
+        "name":  "バター",
+        "purchasedAt":  "2025-08-25T06:54:00+09:00"
+    },
+    {
+        "rowNumber":  324,
+        "name":  "ごま油",
+        "purchasedAt":  "2025-08-17T12:15:00+09:00"
+    },
+    {
+        "rowNumber":  325,
+        "name":  "てんかす",
+        "purchasedAt":  "2025-08-17T12:15:00+09:00"
+    },
+    {
+        "rowNumber":  326,
+        "name":  "うどん",
+        "purchasedAt":  "2025-08-17T12:15:00+09:00"
+    },
+    {
+        "rowNumber":  327,
+        "name":  "トラフル錠剤",
+        "purchasedAt":  "2025-10-04T17:08:00+09:00"
+    },
+    {
+        "rowNumber":  328,
+        "name":  "酒",
+        "purchasedAt":  "2025-08-13T18:16:00+09:00"
+    },
+    {
+        "rowNumber":  329,
+        "name":  "かつおぶし",
+        "purchasedAt":  "2025-08-13T18:16:00+09:00"
+    },
+    {
+        "rowNumber":  330,
+        "name":  "みりん",
+        "purchasedAt":  "2025-08-11T19:51:00+09:00"
+    },
+    {
+        "rowNumber":  331,
+        "name":  "揚げ玉",
+        "purchasedAt":  "2025-07-08T19:45:00+09:00"
+    },
+    {
+        "rowNumber":  332,
+        "name":  "バター",
+        "purchasedAt":  "2025-07-08T19:45:00+09:00"
+    },
+    {
+        "rowNumber":  333,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2025-07-08T19:44:00+09:00"
+    },
+    {
+        "rowNumber":  334,
+        "name":  "ふりかけ",
+        "purchasedAt":  "2025-07-31T17:26:00+09:00"
+    },
+    {
+        "rowNumber":  335,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2025-07-31T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  336,
+        "name":  "もみのり",
+        "purchasedAt":  "2025-07-31T17:20:00+09:00"
+    },
+    {
+        "rowNumber":  337,
+        "name":  "醤油",
+        "purchasedAt":  "2025-07-31T17:22:00+09:00"
+    },
+    {
+        "rowNumber":  338,
+        "name":  "ネット",
+        "purchasedAt":  "2025-07-30T20:23:00+09:00"
+    },
+    {
+        "rowNumber":  339,
+        "name":  "卵",
+        "purchasedAt":  "2025-07-30T20:23:00+09:00"
+    },
+    {
+        "rowNumber":  340,
+        "name":  "牛乳",
+        "purchasedAt":  "2025-07-30T20:23:00+09:00"
+    },
+    {
+        "rowNumber":  341,
+        "name":  "ピザ用チーズ",
+        "purchasedAt":  "2025-07-04T06:40:00+09:00"
+    },
+    {
+        "rowNumber":  342,
+        "name":  "強力粉",
+        "purchasedAt":  "2025-07-24T10:49:00+09:00"
+    },
+    {
+        "rowNumber":  343,
+        "name":  "スモークチキン",
+        "purchasedAt":  "2025-07-24T10:49:00+09:00"
+    },
+    {
+        "rowNumber":  344,
+        "name":  "ブロッコリー",
+        "purchasedAt":  "2025-07-24T10:49:00+09:00"
+    },
+    {
+        "rowNumber":  345,
+        "name":  "揚げ玉",
+        "purchasedAt":  "2025-07-24T10:49:00+09:00"
+    },
+    {
+        "rowNumber":  346,
+        "name":  "溶けるスライスチーズ",
+        "purchasedAt":  "2025-07-23T16:31:00+09:00"
+    },
+    {
+        "rowNumber":  347,
+        "name":  "バター",
+        "purchasedAt":  "2025-07-23T16:30:00+09:00"
+    },
+    {
+        "rowNumber":  348,
+        "name":  "ホットケーキミックス",
+        "purchasedAt":  "2025-07-09T09:52:00+09:00"
+    },
+    {
+        "rowNumber":  349,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2025-07-16T16:58:00+09:00"
+    },
+    {
+        "rowNumber":  350,
+        "name":  "ブラックペッパー",
+        "purchasedAt":  "2025-07-16T16:58:00+09:00"
+    },
+    {
+        "rowNumber":  351,
+        "name":  "カレー粉",
+        "purchasedAt":  "2025-07-19T15:56:00+09:00"
+    },
+    {
+        "rowNumber":  352,
+        "name":  "クミン",
+        "purchasedAt":  "2025-07-19T15:56:00+09:00"
+    },
+    {
+        "rowNumber":  353,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2025-07-11T18:39:00+09:00"
+    },
+    {
+        "rowNumber":  354,
+        "name":  "柔軟剤",
+        "purchasedAt":  "2025-07-11T18:38:00+09:00"
+    },
+    {
+        "rowNumber":  355,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2025-07-11T18:38:00+09:00"
+    },
+    {
+        "rowNumber":  356,
+        "name":  "トマトケチャップ",
+        "purchasedAt":  "2025-07-11T18:44:00+09:00"
+    },
+    {
+        "rowNumber":  357,
+        "name":  "ノリわさび",
+        "purchasedAt":  "2025-07-11T18:40:00+09:00"
+    },
+    {
+        "rowNumber":  358,
+        "name":  "かつおぶし",
+        "purchasedAt":  "2025-07-11T18:40:00+09:00"
+    },
+    {
+        "rowNumber":  359,
+        "name":  "冷凍ブロッコリー",
+        "purchasedAt":  "2025-06-15T13:07:00+09:00"
+    },
+    {
+        "rowNumber":  360,
+        "name":  "クリームチーズ",
+        "purchasedAt":  "2025-06-15T13:07:00+09:00"
+    },
+    {
+        "rowNumber":  361,
+        "name":  "豆",
+        "purchasedAt":  "2025-06-09T18:36:00+09:00"
+    },
+    {
+        "rowNumber":  362,
+        "name":  "トマト缶",
+        "purchasedAt":  "2025-06-09T18:36:00+09:00"
+    },
+    {
+        "rowNumber":  363,
+        "name":  "岩塩",
+        "purchasedAt":  "2025-06-09T18:31:00+09:00"
+    },
+    {
+        "rowNumber":  364,
+        "name":  "白玉粉",
+        "purchasedAt":  "2025-06-09T18:31:00+09:00"
+    },
+    {
+        "rowNumber":  365,
+        "name":  "こばえホイホイ",
+        "purchasedAt":  "2025-06-09T18:30:00+09:00"
+    },
+    {
+        "rowNumber":  366,
+        "name":  "網戸の虫対策",
+        "purchasedAt":  "2025-06-09T18:30:00+09:00"
+    },
+    {
+        "rowNumber":  367,
+        "name":  "揚げ玉",
+        "purchasedAt":  "2025-06-09T18:33:00+09:00"
+    },
+    {
+        "rowNumber":  368,
+        "name":  "いりごま",
+        "purchasedAt":  "2025-06-05T18:13:00+09:00"
+    },
+    {
+        "rowNumber":  369,
+        "name":  "レモン汁",
+        "purchasedAt":  "2025-06-05T18:14:00+09:00"
+    },
+    {
+        "rowNumber":  370,
+        "name":  "もみのり",
+        "purchasedAt":  "2025-06-05T18:16:00+09:00"
+    },
+    {
+        "rowNumber":  371,
+        "name":  "うどん",
+        "purchasedAt":  "2025-06-30T19:51:00+09:00"
+    },
+    {
+        "rowNumber":  372,
+        "name":  "食べるラー油",
+        "purchasedAt":  "2025-07-23T16:35:00+09:00"
+    },
+    {
+        "rowNumber":  373,
+        "name":  "ピーナッツバター",
+        "purchasedAt":  "2025-07-23T16:34:00+09:00"
+    },
+    {
+        "rowNumber":  374,
+        "name":  "片栗粉",
+        "purchasedAt":  "2025-06-28T17:05:00+09:00"
+    },
+    {
+        "rowNumber":  375,
+        "name":  "醤油",
+        "purchasedAt":  "2025-06-28T17:06:00+09:00"
+    },
+    {
+        "rowNumber":  376,
+        "name":  "米",
+        "purchasedAt":  "2025-06-23T11:03:00+09:00"
+    },
+    {
+        "rowNumber":  377,
+        "name":  "牛乳",
+        "purchasedAt":  "2025-07-16T16:59:00+09:00"
+    },
+    {
+        "rowNumber":  378,
+        "name":  "卵",
+        "purchasedAt":  "2025-06-23T11:03:00+09:00"
+    },
+    {
+        "rowNumber":  379,
+        "name":  "麦茶パック",
+        "purchasedAt":  "2025-06-23T11:03:00+09:00"
+    },
+    {
+        "rowNumber":  380,
+        "name":  "ハンドペーパー",
+        "purchasedAt":  "2025-06-23T20:18:00+09:00"
+    },
+    {
+        "rowNumber":  381,
+        "name":  "油吸収シート",
+        "purchasedAt":  "2025-06-23T20:18:00+09:00"
+    },
+    {
+        "rowNumber":  382,
+        "name":  "黒胡椒",
+        "purchasedAt":  "2025-06-23T10:49:00+09:00"
+    },
+    {
+        "rowNumber":  383,
+        "name":  "パスタ",
+        "purchasedAt":  "2025-06-23T10:49:00+09:00"
+    },
+    {
+        "rowNumber":  384,
+        "name":  "キッチンペーパー",
+        "purchasedAt":  "2025-06-23T10:47:00+09:00"
+    },
+    {
+        "rowNumber":  385,
+        "name":  "塩焼きそば",
+        "purchasedAt":  "2025-06-01T12:19:00+09:00"
+    },
+    {
+        "rowNumber":  386,
+        "name":  "ホットケーキミックス",
+        "purchasedAt":  "2025-06-01T12:19:00+09:00"
+    },
+    {
+        "rowNumber":  387,
+        "name":  "卵",
+        "purchasedAt":  "2025-06-01T12:19:00+09:00"
+    },
+    {
+        "rowNumber":  388,
+        "name":  "乾燥わかめ",
+        "purchasedAt":  "2025-06-23T10:48:00+09:00"
+    },
+    {
+        "rowNumber":  389,
+        "name":  "マヨネーズ",
+        "purchasedAt":  "2025-06-18T17:16:00+09:00"
+    },
+    {
+        "rowNumber":  390,
+        "name":  "さつまいも",
+        "purchasedAt":  "2025-06-15T13:33:00+09:00"
+    },
+    {
+        "rowNumber":  391,
+        "name":  "あんこ",
+        "purchasedAt":  "2025-06-15T13:19:00+09:00"
+    },
+    {
+        "rowNumber":  392,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2025-06-15T13:19:00+09:00"
+    },
+    {
+        "rowNumber":  393,
+        "name":  "砂糖",
+        "purchasedAt":  "2025-06-15T13:38:00+09:00"
+    },
+    {
+        "rowNumber":  394,
+        "name":  "もち麦",
+        "purchasedAt":  "2025-06-18T17:12:00+09:00"
+    },
+    {
+        "rowNumber":  395,
+        "name":  "サラダ油",
+        "purchasedAt":  "2025-06-15T13:35:00+09:00"
+    },
+    {
+        "rowNumber":  396,
+        "name":  "かつおぶし",
+        "purchasedAt":  "2025-06-11T17:25:00+09:00"
+    },
+    {
+        "rowNumber":  397,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2025-05-09T18:46:00+09:00"
+    },
+    {
+        "rowNumber":  398,
+        "name":  "すりごま",
+        "purchasedAt":  "2025-05-09T18:55:00+09:00"
+    },
+    {
+        "rowNumber":  399,
+        "name":  "冷凍茄子",
+        "purchasedAt":  "2025-05-06T13:32:00+09:00"
+    },
+    {
+        "rowNumber":  400,
+        "name":  "めんつゆ",
+        "purchasedAt":  "2025-05-04T16:18:00+09:00"
+    },
+    {
+        "rowNumber":  401,
+        "name":  "黒コショウ",
+        "purchasedAt":  "2025-05-04T16:18:00+09:00"
+    },
+    {
+        "rowNumber":  402,
+        "name":  "鰹節",
+        "purchasedAt":  "2025-05-06T13:36:00+09:00"
+    },
+    {
+        "rowNumber":  403,
+        "name":  "薄力粉（業務スーパー）",
+        "purchasedAt":  "2025-05-06T13:36:00+09:00"
+    },
+    {
+        "rowNumber":  404,
+        "name":  "鳥もも肉 業務スーパー",
+        "purchasedAt":  "2025-05-06T13:31:00+09:00"
+    },
+    {
+        "rowNumber":  405,
+        "name":  "冷凍ブロッコリー（業務スーパー）",
+        "purchasedAt":  "2025-05-06T13:31:00+09:00"
+    },
+    {
+        "rowNumber":  406,
+        "name":  "冷凍ホウレンソウ（業務スーパー）",
+        "purchasedAt":  "2025-05-06T13:31:00+09:00"
+    },
+    {
+        "rowNumber":  407,
+        "name":  "チューブにんにく",
+        "purchasedAt":  "2025-05-04T16:19:00+09:00"
+    },
+    {
+        "rowNumber":  408,
+        "name":  "チューブしょうが",
+        "purchasedAt":  "2025-05-04T16:19:00+09:00"
+    },
+    {
+        "rowNumber":  409,
+        "name":  "料理酒",
+        "purchasedAt":  "2025-05-04T16:20:00+09:00"
+    },
+    {
+        "rowNumber":  410,
+        "name":  "一味唐辛子",
+        "purchasedAt":  "2025-05-04T16:19:00+09:00"
+    },
+    {
+        "rowNumber":  411,
+        "name":  "クリームチーズ",
+        "purchasedAt":  "2025-06-01T12:59:00+09:00"
+    },
+    {
+        "rowNumber":  412,
+        "name":  "味噌",
+        "purchasedAt":  "2025-06-01T12:59:00+09:00"
+    },
+    {
+        "rowNumber":  413,
+        "name":  "バター",
+        "purchasedAt":  "2025-06-01T12:59:00+09:00"
+    },
+    {
+        "rowNumber":  414,
+        "name":  "トイレットペーパー",
+        "purchasedAt":  "2025-06-01T12:23:00+09:00"
+    },
+    {
+        "rowNumber":  415,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2025-05-02T13:18:00+09:00"
+    },
+    {
+        "rowNumber":  416,
+        "name":  "ピザチーズ",
+        "purchasedAt":  "2025-05-06T13:28:00+09:00"
+    },
+    {
+        "rowNumber":  417,
+        "name":  "卵",
+        "purchasedAt":  "2025-05-15T17:58:00+09:00"
+    },
+    {
+        "rowNumber":  418,
+        "name":  "牛乳",
+        "purchasedAt":  "2025-05-09T18:44:00+09:00"
+    },
+    {
+        "rowNumber":  419,
+        "name":  "ニラ",
+        "purchasedAt":  "2025-06-01T12:55:00+09:00"
+    },
+    {
+        "rowNumber":  420,
+        "name":  "生姜",
+        "purchasedAt":  "2025-06-01T12:55:00+09:00"
+    },
+    {
+        "rowNumber":  421,
+        "name":  "白菜",
+        "purchasedAt":  "2025-06-01T12:55:00+09:00"
+    },
+    {
+        "rowNumber":  422,
+        "name":  "りんご一個",
+        "purchasedAt":  "2025-06-01T12:55:00+09:00"
+    },
+    {
+        "rowNumber":  423,
+        "name":  "塩辛",
+        "purchasedAt":  "2025-06-01T12:22:00+09:00"
+    },
+    {
+        "rowNumber":  424,
+        "name":  "ご飯に混ぜるもの",
+        "purchasedAt":  "2025-06-01T12:56:00+09:00"
+    },
+    {
+        "rowNumber":  425,
+        "name":  "牛乳",
+        "purchasedAt":  "2025-06-01T12:56:00+09:00"
+    },
+    {
+        "rowNumber":  426,
+        "name":  "ベーコン",
+        "purchasedAt":  "2025-05-28T15:24:00+09:00"
+    },
+    {
+        "rowNumber":  427,
+        "name":  "コンソメ",
+        "purchasedAt":  "2025-05-28T15:26:00+09:00"
+    },
+    {
+        "rowNumber":  428,
+        "name":  "米",
+        "purchasedAt":  "2025-05-29T23:02:00+09:00"
+    },
+    {
+        "rowNumber":  429,
+        "name":  "蒸しサラダ豆",
+        "purchasedAt":  "2025-05-28T17:31:00+09:00"
+    },
+    {
+        "rowNumber":  430,
+        "name":  "トマト缶",
+        "purchasedAt":  "2025-05-28T17:30:00+09:00"
+    },
+    {
+        "rowNumber":  431,
+        "name":  "キッチンペーパー",
+        "purchasedAt":  "2025-05-29T16:16:00+09:00"
+    },
+    {
+        "rowNumber":  432,
+        "name":  "ゴミ袋10l",
+        "purchasedAt":  "2025-05-29T16:16:00+09:00"
+    },
+    {
+        "rowNumber":  433,
+        "name":  "みりん",
+        "purchasedAt":  "2025-05-26T17:15:00+09:00"
+    },
+    {
+        "rowNumber":  434,
+        "name":  "冷凍揚げなす",
+        "purchasedAt":  "2025-05-26T17:09:00+09:00"
+    },
+    {
+        "rowNumber":  435,
+        "name":  "冷凍ブロッコリー",
+        "purchasedAt":  "2025-05-26T17:09:00+09:00"
+    },
+    {
+        "rowNumber":  436,
+        "name":  "玉ねぎ",
+        "purchasedAt":  "2025-05-26T17:06:00+09:00"
+    },
+    {
+        "rowNumber":  437,
+        "name":  "バブ",
+        "purchasedAt":  "2025-05-28T17:20:00+09:00"
+    },
+    {
+        "rowNumber":  438,
+        "name":  "チーズ固形",
+        "purchasedAt":  "2025-11-06T14:18:00+09:00"
+    },
+    {
+        "rowNumber":  439,
+        "name":  "パスタ",
+        "purchasedAt":  "2025-05-28T17:29:00+09:00"
+    },
+    {
+        "rowNumber":  440,
+        "name":  "ピーナツバター",
+        "purchasedAt":  "2025-05-23T16:39:00+09:00"
+    },
+    {
+        "rowNumber":  441,
+        "name":  "黒ねりごま",
+        "purchasedAt":  "2025-05-23T16:39:00+09:00"
+    },
+    {
+        "rowNumber":  442,
+        "name":  "塩焼きそば麺",
+        "purchasedAt":  "2025-05-22T17:37:00+09:00"
+    },
+    {
+        "rowNumber":  443,
+        "name":  "豚ひき肉",
+        "purchasedAt":  "2025-05-22T17:38:00+09:00"
+    },
+    {
+        "rowNumber":  444,
+        "name":  "木綿豆腐小分けの",
+        "purchasedAt":  "2025-05-22T17:37:00+09:00"
+    },
+    {
+        "rowNumber":  445,
+        "name":  "冷凍うどん",
+        "purchasedAt":  "2025-06-11T17:35:00+09:00"
+    },
+    {
+        "rowNumber":  446,
+        "name":  "バナナ",
+        "purchasedAt":  "2025-05-22T17:41:00+09:00"
+    },
+    {
+        "rowNumber":  447,
+        "name":  "ケチャップ",
+        "purchasedAt":  "2025-05-22T17:41:00+09:00"
+    },
+    {
+        "rowNumber":  448,
+        "name":  "ジャガイモ",
+        "purchasedAt":  "2025-05-22T17:40:00+09:00"
+    },
+    {
+        "rowNumber":  449,
+        "name":  "強力粉業務スーパー",
+        "purchasedAt":  "2025-05-26T17:12:00+09:00"
+    },
+    {
+        "rowNumber":  450,
+        "name":  "砂糖",
+        "purchasedAt":  "2025-05-22T17:45:00+09:00"
+    },
+    {
+        "rowNumber":  451,
+        "name":  "オイスターソース",
+        "purchasedAt":  "2025-05-20T19:25:00+09:00"
+    },
+    {
+        "rowNumber":  452,
+        "name":  "粒マスタード",
+        "purchasedAt":  "2025-05-23T16:25:00+09:00"
+    },
+    {
+        "rowNumber":  453,
+        "name":  "きゅうり",
+        "purchasedAt":  "2025-05-22T17:39:00+09:00"
+    },
+    {
+        "rowNumber":  454,
+        "name":  "豆板醤",
+        "purchasedAt":  "2025-05-20T19:29:00+09:00"
+    },
+    {
+        "rowNumber":  455,
+        "name":  "衣類用洗剤",
+        "purchasedAt":  "2025-05-16T17:19:00+09:00"
+    },
+    {
+        "rowNumber":  456,
+        "name":  "ピザソース",
+        "purchasedAt":  "2025-05-20T19:27:00+09:00"
+    },
+    {
+        "rowNumber":  457,
+        "name":  "ピザチーズ",
+        "purchasedAt":  "2025-05-16T17:21:00+09:00"
+    },
+    {
+        "rowNumber":  458,
+        "name":  "ニトリル手袋Sサイズ",
+        "purchasedAt":  "2025-05-18T17:43:00+09:00"
+    },
+    {
+        "rowNumber":  459,
+        "name":  "サラダ油",
+        "purchasedAt":  "2025-05-20T19:22:00+09:00"
+    },
+    {
+        "rowNumber":  460,
+        "name":  "バター",
+        "purchasedAt":  "2025-05-14T18:36:00+09:00"
+    },
+    {
+        "rowNumber":  461,
+        "name":  "テスト２",
+        "purchasedAt":  "2025-04-30T15:26:00+09:00"
+    },
+    {
+        "rowNumber":  462,
+        "name":  "テスト",
+        "purchasedAt":  "2025-04-30T15:26:00+09:00"
+    },
+    {
+        "rowNumber":  463,
+        "name":  "食べるラー油",
+        "purchasedAt":  "2025-05-15T17:59:00+09:00"
+    },
+    {
+        "rowNumber":  464,
+        "name":  "ピザソース",
+        "purchasedAt":  "2025-04-30T15:20:00+09:00"
+    },
+    {
+        "rowNumber":  465,
+        "name":  "卵",
+        "purchasedAt":  "2025-04-30T15:20:00+09:00"
+    },
+    {
+        "rowNumber":  466,
+        "name":  "しょうゆ",
+        "purchasedAt":  "2025-05-02T13:16:00+09:00"
+    },
+    {
+        "rowNumber":  467,
+        "name":  "スモークチキン（業務スーパー）",
+        "purchasedAt":  "2025-05-20T19:19:00+09:00"
+    },
+    {
+        "rowNumber":  468,
+        "name":  "強力粉（業務スーパー）",
+        "purchasedAt":  "2025-05-06T13:37:00+09:00"
+    },
+    {
+        "rowNumber":  469,
+        "name":  "生姜チューブ",
+        "purchasedAt":  "2025-04-30T15:22:00+09:00"
+    }
+]
