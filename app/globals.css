@@ -36,10 +36,12 @@ button:focus-visible, input:focus-visible { outline: 3px solid rgba(47, 125, 74,
 .eyebrow { margin: 0; color: var(--green); font-size: .72rem; font-weight: 900; letter-spacing: .12em; text-transform: uppercase; }
 .eyebrow.light { color: #cde9d4; }
 .eyebrow.coral { color: var(--coral); }
-.add-row { position: relative; z-index: 1; display: grid; grid-template-columns: 1fr 54px; gap: 9px; }
+.voice-control { position: relative; z-index: 1; display: flex; flex-direction: column; align-items: center; gap: 6px; margin: 4px 0 14px; color: #cde9d4; font-size: .73rem; font-weight: 800; }
+.mic-button { width: 82px; height: 82px; border: 0; border-radius: 50%; background: var(--coral); color: white; display: grid; place-items: center; cursor: pointer; box-shadow: 0 9px 20px rgba(244, 93, 91, .3); }
+.mic-button svg { width: 34px; height: 34px; }
+.add-row { position: relative; z-index: 1; display: block; }
 .add-row input { width: 100%; border: 0; border-radius: 17px; background: white; color: var(--ink); padding: 0 17px; min-height: 54px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.03); }
 .add-row input::placeholder { color: #a1aaa5; }
-.mic-button { border: 0; border-radius: 17px; background: var(--coral); color: white; display: grid; place-items: center; cursor: pointer; box-shadow: 0 7px 16px rgba(244, 93, 91, .28); }
 .mic-button.listening { animation: pulse 1.1s infinite; }
 .chip-preview { position: relative; z-index: 1; display: flex; flex-wrap: wrap; gap: 7px; margin-top: 13px; align-items: center; }
 .chip-preview span { background: rgba(255,255,255,.14); border: 1px solid rgba(255,255,255,.21); padding: 7px 10px; border-radius: 999px; font-size: .82rem; }
@@ -97,7 +99,7 @@ button:focus-visible, input:focus-visible { outline: 3px solid rgba(47, 125, 74,
 .recommendation-card.expanded .recommendation-detail { display: block; }
 .recommendation-detail strong { font-size: .78rem; }
 .recommendation-detail ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px 12px; margin: 9px 0; padding: 0; list-style: none; color: var(--muted); font-size: .74rem; }
-.recommendation-detail li::before { content: "・"; color: var(--green); }
+.recommendation-detail li::before { content: "繝ｻ"; color: var(--green); }
 .recommendation-detail small { color: var(--green-dark); font-size: .72rem; font-weight: 800; }
 .rec-body button { margin-top: 13px; background: var(--green); border: 0; color: white; border-radius: 12px; padding: 9px 12px; font-weight: 800; font-size: .76rem; display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 .rec-body button svg { width: 15px; }
@@ -225,3 +227,4 @@ button:focus-visible, input:focus-visible { outline: 3px solid rgba(47, 125, 74,
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
+
