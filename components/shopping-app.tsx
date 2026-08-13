@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 import Image from "next/image";
@@ -159,11 +159,11 @@ export default function ShoppingApp() {
     }
   }, [tab, session?.authenticated]);
 
-  async function addCurrent(source: "web" | "voice" = inputSource) {
-    if (!previewNames.length) return;
+  async function addCurrent(source: "web" | "voice" = inputSource, names = previewNames) {
+    if (!names.length) return;
     setBusy(true); setError("");
     try {
-      const result = await api<{ items: ShoppingItem[]; skipped: number }>("/api/items", { method: "POST", body: JSON.stringify({ names: previewNames, source }) });
+      const result = await api<{ items: ShoppingItem[]; skipped: number }>("/api/items", { method: "POST", body: JSON.stringify({ names, source }) });
       setInput(""); setInputSource("web"); await refresh();
       notify(result.items.length ? `${result.items.length}件追加しました` : "すでにリストに入っています");
     } catch (err) { setError(err instanceof Error ? err.message : "追加できませんでした。"); }
@@ -174,7 +174,13 @@ export default function ShoppingApp() {
     const Recognition = window.SpeechRecognition ?? window.webkitSpeechRecognition;
     if (!Recognition) { setError("このブラウザは画面内の音声入力に対応していません。文字入力かSiriをご利用ください。"); return; }
     const recognition = new Recognition(); recognition.lang = "ja-JP"; recognition.interimResults = false; recognition.continuous = false;
-    recognition.onresult = (event) => { setInput(event.results[0][0].transcript); setInputSource("voice"); setListening(false); };
+    recognition.onresult = (event) => {
+      const transcript = event.results[0][0].transcript;
+      const names = splitSpokenItems(transcript, knownNames);
+      setInput(transcript); setInputSource("voice"); setListening(false);
+      // 音声入力は認識確定時にそのまま登録する。手入力は従来どおり追加ボタンを使う。
+      void addCurrent("voice", names);
+    };
     recognition.onerror = () => { setListening(false); setError("音声を聞き取れませんでした。マイクの許可を確認してください。"); };
     recognition.onend = () => setListening(false); setError(""); setListening(true); recognition.start();
   }
@@ -241,7 +247,7 @@ export default function ShoppingApp() {
     <main className="main-content">
       {error && <div className="error-banner"><span>{error}</span><button onClick={() => setError("")} aria-label="閉じる"><X /></button></div>}
       {tab === "list" && <section>
-        <div className="hero-card"><p className="eyebrow light">声でも、指でも</p><h2>なにを買う？</h2><div className="add-row"><input value={input} onChange={(e) => { setInput(e.target.value); setInputSource("web"); }} onKeyDown={(e) => { if (e.key === "Enter") void addCurrent(); }} placeholder="牛乳、卵、パン" aria-label="追加する商品" /><button className={`mic-button ${listening ? "listening" : ""}`} onClick={startVoice} aria-label="音声入力">{listening ? <MicOff /> : <Mic />}</button></div>
+        <div className="hero-card"><p className="eyebrow light">声でも、指でも</p><h2>なにを買う？</h2><div className="voice-control"><button className={`mic-button ${listening ? "listening" : ""}`} onClick={startVoice} aria-label="音声入力">{listening ? <MicOff /> : <Mic />}</button><span>{listening ? "聞いています…" : "マイクを押して話す"}</span></div><div className="add-row"><input value={input} onChange={(e) => { setInput(e.target.value); setInputSource("web"); }} onKeyDown={(e) => { if (e.key === "Enter") void addCurrent(); }} placeholder="牛乳、卵、パン" aria-label="追加する商品" /></div>
         {previewNames.length > 0 && <div className="chip-preview">{previewNames.map((name) => <span key={name}>{name}</span>)}<button onClick={() => void addCurrent()} disabled={busy}>{busy ? <LoaderCircle className="spin" /> : <Plus />}追加</button></div>}</div>
         <div className="section-heading"><div><p className="eyebrow">今日のリスト</p><h2>{items.length}個の買うもの</h2></div>{recommendations.length > 0 && <button className="mini-link" onClick={() => setTab("soon")}><Sparkles />候補 {recommendations.length}</button>}</div>
         <div className="item-list">{items.length ? items.map((item) => { const similarNames = similarProductNames(item.name); return <article className="item-card" key={item.id}><button className="check-button" onClick={() => void setPurchased(item, true)} aria-label={`${item.name}をごろ！にする`}>ごろ！</button><div><h3>{item.name}</h3>{similarNames.length > 0 && <div className="similar-alert"><span>履歴に似た商品があります。これと同じですか？</span>{similarNames.map((name) => <button key={name} onClick={async (event) => { event.stopPropagation(); await api(`/api/items/${item.id}`, { method: "PATCH", body: JSON.stringify({ productName: name }) }); await refresh(); notify(`${name}に変更しました`); }}>{name}</button>)}</div>}</div><button className="icon-button danger" onClick={() => void remove(item)} aria-label="削除"><Trash2 /></button></article>; }) : <EmptyState icon={<ShoppingBasket />} title="リストは空です" text="上の入力欄かマイクから追加してみましょう。" />}</div>
@@ -265,5 +271,6 @@ export default function ShoppingApp() {
     {toast && <div className="toast"><Check />{toast}</div>}
   </div>;
 }
+
 
 
