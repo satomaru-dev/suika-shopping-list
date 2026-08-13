@@ -224,6 +224,35 @@ button:focus-visible, input:focus-visible { outline: 3px solid rgba(47, 125, 74,
   .item-list { grid-template-columns: 1fr 1fr; }
 }
 
+@media (max-width: 759px) {
+  .topbar { height: 66px; padding: 8px 15px; }
+  .brand { gap: 8px; }
+  .brand img { width: 42px; height: 42px; border-radius: 13px; }
+  .brand p { font-size: .62rem; }
+  .brand h1 { font-size: 1rem; }
+  .main-content { padding: 0 13px 18px; }
+  .hero-card { border-radius: 23px; padding: 15px 15px 13px; }
+  .hero-card h2 { margin: 2px 0 7px; font-size: 1.38rem; }
+  .hero-card > .eyebrow { font-size: .63rem; }
+  .voice-control { gap: 3px; margin: 0 0 8px; font-size: .64rem; }
+  .mic-button { width: 60px; height: 60px; }
+  .mic-button svg { width: 27px; height: 27px; }
+  .add-row input { min-height: 44px; border-radius: 14px; padding: 0 14px; font-size: .84rem; }
+  .section-heading { margin: 18px 2px 9px; }
+  .section-heading h2, .page-intro h2 { font-size: 1.25rem; }
+  .item-list { gap: 7px; }
+  .item-card { grid-template-columns: 58px 1fr 32px; gap: 8px; padding: 8px; border-radius: 15px; }
+  .item-card h3 { font-size: .9rem; }
+  .check-button { width: 58px; height: 36px; border-radius: 10px; font-size: .76rem; }
+  .icon-button { width: 32px; height: 32px; }
+  .icon-button svg { width: 16px; }
+  .bottom-nav { height: 62px; padding: 5px; border-radius: 19px; }
+  .bottom-nav button { border-radius: 14px; }
+  .bottom-nav svg { width: 18px; height: 18px; }
+  .bottom-nav span { font-size: .58rem; }
+  .app-shell { padding-bottom: 82px; }
+}
+
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
