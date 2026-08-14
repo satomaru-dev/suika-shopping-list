@@ -4,9 +4,12 @@ import { splitSpokenItems } from "@/lib/voice";
 import { z } from "zod";
 
 export const runtime = "nodejs";
+// Keep Siri requests close to users in Japan.
+export const preferredRegion = "hnd1";
 const schema = z.object({ text: z.string().min(1).max(300) });
 
 export async function POST(request: Request) {
+  const startedAt = Date.now();
   try {
     const auth = request.headers.get("authorization") ?? "";
     if (!auth.startsWith("Bearer ")) throw new HttpError(401, "Siriトークンが必要です。", "INVALID_TOKEN");
@@ -17,7 +20,9 @@ export async function POST(request: Request) {
     // comma-separated, and newline-separated Siri requests.
     const knownNames = text.includes("\u3068") ? await getProductNames(householdId) : [];
     const names = splitSpokenItems(text, knownNames);
+    const authenticatedAt = Date.now();
     const items = await addItems(householdId, names, "siri");
+    console.info("[siri] completed", { authMs: authenticatedAt - startedAt, writeMs: Date.now() - authenticatedAt, totalMs: Date.now() - startedAt });
     const message = items.length ? `${items.map((item) => item.name).join("、")}を追加しました` : "すでに買い物リストに入っています";
     // Keep the response exactly compatible with the original iPhone/Apple Watch
     // shortcut.  The shortcut reads the top-level `message` dictionary value;
