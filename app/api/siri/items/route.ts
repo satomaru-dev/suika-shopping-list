@@ -18,7 +18,10 @@ export async function POST(request: Request) {
     const knownNames = text.includes("\u3068") ? await getProductNames(householdId) : [];
     const names = splitSpokenItems(text, knownNames);
     const items = await addItems(householdId, names, "siri");
-    const message = items.length ? `${items.map((item) => item.name).join("、")}を追加しました。` : "すでに買い物リストに入っています。";
-    return Response.json({ items, message });
+    const message = items.length ? `${items.map((item) => item.name).join("、")}を追加しました` : "すでに買い物リストに入っています";
+    // Keep the response shape used by the original shortcut while retaining
+    // the richer `items` field for the current app.
+    const added = items.map((item) => ({ name: item.name }));
+    return Response.json({ ok: true, added, items, message });
   } catch (error) { return errorResponse(error); }
 }
