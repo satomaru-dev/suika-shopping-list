@@ -19,9 +19,10 @@ export async function POST(request: Request) {
     const names = splitSpokenItems(text, knownNames);
     const items = await addItems(householdId, names, "siri");
     const message = items.length ? `${items.map((item) => item.name).join("、")}を追加しました` : "すでに買い物リストに入っています";
-    // Keep the response shape used by the original shortcut while retaining
-    // the richer `items` field for the current app.
+    // Keep the response exactly compatible with the original iPhone/Apple Watch
+    // shortcut.  The shortcut reads the top-level `message` dictionary value;
+    // extra nested fields can be treated as rich text by Apple Watch.
     const added = items.map((item) => ({ name: item.name }));
-    return Response.json({ ok: true, added, items, message });
+    return Response.json({ ok: true, added, message });
   } catch (error) { return errorResponse(error); }
 }
