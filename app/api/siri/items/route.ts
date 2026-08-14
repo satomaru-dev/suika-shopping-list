@@ -12,7 +12,11 @@ export async function POST(request: Request) {
     if (!auth.startsWith("Bearer ")) throw new HttpError(401, "Siriトークンが必要です。", "INVALID_TOKEN");
     const householdId = await authenticateSiriToken(auth.slice(7));
     const { text } = schema.parse(await readJson(request));
-    const names = splitSpokenItems(text, await getProductNames(householdId));
+    // Known product names only influence the ambiguous Japanese "と" split.
+    // Avoid two unnecessary database round trips for the usual single-item,
+    // comma-separated, and newline-separated Siri requests.
+    const knownNames = text.includes("\u3068") ? await getProductNames(householdId) : [];
+    const names = splitSpokenItems(text, knownNames);
     const items = await addItems(householdId, names, "siri");
     const message = items.length ? `${items.map((item) => item.name).join("、")}を追加しました。` : "すでに買い物リストに入っています。";
     return Response.json({ items, message });

@@ -32,12 +32,19 @@ async function findOrCreateProduct(householdId: string, rawName: string) {
   const name = cleanDisplayName(rawName);
   const normalizedName = normalizeProductName(name);
   if (!normalizedName || name.length > 100) throw new HttpError(400, "商品名は1〜100文字で入力してください。", "INVALID_NAME");
-  const { data: alias, error: aliasError } = await supabase.from("product_aliases").select("product_id,products!inner(id,display_name)").eq("household_id", householdId).eq("normalized_alias", normalizedName).maybeSingle();
+  const [aliasResult, productResult] = await Promise.all([
+    supabase.from("product_aliases").select("product_id,products!inner(id,display_name)").eq("household_id", householdId).eq("normalized_alias", normalizedName).maybeSingle(),
+    supabase.from("products").select("id,display_name").eq("household_id", householdId).eq("normalized_name", normalizedName).maybeSingle(),
+  ]);
+  const { data: alias, error: aliasError } = aliasResult;
   if (aliasError) throw aliasError;
   if (alias) {
     const product = Array.isArray(alias.products) ? alias.products[0] : alias.products;
     if (product) return product as { id: string; display_name: string };
   }
+  const { data: existingProduct, error: productError } = productResult;
+  if (productError) throw productError;
+  if (existingProduct) return existingProduct;
   const { data, error } = await supabase.from("products").upsert({ household_id: householdId, display_name: name, normalized_name: normalizedName }, { onConflict: "household_id,normalized_name", ignoreDuplicates: true }).select("id,display_name").maybeSingle();
   if (error) throw error;
   if (data) return data;
@@ -217,9 +224,14 @@ export async function authenticateSiriToken(token: string): Promise<string> {
   if (isDemoMode()) return "demo-household";
   if (!token) throw new HttpError(401, "Siriトークンが必要です。", "INVALID_TOKEN");
   const supabase = getSupabaseAdmin();
-  const { data, error } = await supabase.from("siri_tokens").select("id,household_id").eq("token_hash", sha256(token)).is("revoked_at", null).maybeSingle();
+  const { data, error } = await supabase
+    .from("siri_tokens")
+    .update({ last_used_at: new Date().toISOString() })
+    .eq("token_hash", sha256(token))
+    .is("revoked_at", null)
+    .select("id,household_id")
+    .maybeSingle();
   if (error) throw error;
   if (!data) throw new HttpError(401, "Siriトークンが無効です。", "INVALID_TOKEN");
-  await supabase.from("siri_tokens").update({ last_used_at: new Date().toISOString() }).eq("id", data.id);
   return data.household_id;
 }
