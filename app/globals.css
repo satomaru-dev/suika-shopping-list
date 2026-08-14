@@ -101,8 +101,9 @@ button:focus-visible, input:focus-visible { outline: 3px solid rgba(47, 125, 74,
 .recommendation-card.expanded .recommendation-detail { display: block; }
 .recommendation-detail strong { font-size: .78rem; }
 .recommendation-detail ul { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 6px 12px; margin: 9px 0; padding: 0; list-style: none; color: var(--muted); font-size: .74rem; }
-.recommendation-detail li::before { content: "繝ｻ"; color: var(--green); }
+.recommendation-detail li::before { content: "・"; color: var(--green); }
 .recommendation-detail small { color: var(--green-dark); font-size: .72rem; font-weight: 800; }
+.recommendation-detail li::before { content: "•"; color: var(--green); }
 .rec-body button { margin-top: 13px; background: var(--green); border: 0; color: white; border-radius: 12px; padding: 9px 12px; font-weight: 800; font-size: .76rem; display: inline-flex; align-items: center; gap: 5px; cursor: pointer; }
 .rec-body button svg { width: 15px; }
 
@@ -259,4 +260,3 @@ button:focus-visible, input:focus-visible { outline: 3px solid rgba(47, 125, 74,
 @media (prefers-reduced-motion: reduce) {
   *, *::before, *::after { scroll-behavior: auto !important; animation-duration: .01ms !important; animation-iteration-count: 1 !important; }
 }
-
